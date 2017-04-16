@@ -1,0 +1,5 @@
+E:\Database\Database Project\mahmud\mahmud\bin\mahmud.dll
+E:\Database\Database Project\mahmud\mahmud\bin\mahmud.pdb
+E:\Database\Database Project\mahmud\mahmud\obj\Debug\mahmud.csprojResolveAssemblyReference.cache
+E:\Database\Database Project\mahmud\mahmud\obj\Debug\mahmud.dll
+E:\Database\Database Project\mahmud\mahmud\obj\Debug\mahmud.pdb
